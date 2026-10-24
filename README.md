@@ -61,6 +61,7 @@ The wallpapers in this collection are sourced from artworks by these artists:
 - Neko - [twitter](https://x.com/Neko_4cfantasy) [pixiv](https://www.pixiv.net/en/users/2600911)
 - inee - [twitter](https://x.com/inee) [pixiv](https://www.pixiv.net/en/users/45059236)
 - Datsha - [twitter](https://x.com/S2_Datsha) [pixiv](https://www.pixiv.net/en/users/45015081)
+
 All amazing artists with lots of beautiful background material (if any of these credits are incorrect, please correct me)
 
 ### Tooling used
